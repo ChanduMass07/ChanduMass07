@@ -8,7 +8,7 @@
 
 - 💻 Skilled in **C, C++, SQL, React**  
 - 🚀 Grinding **DSA**  
-- 🎯 Focus: *Strong fundamentals + polished GitHub presence*  
+- 🎯 Focus: *Strong Basic Skills*  
 - 📬 Reach me: **chanduking1718@gmail.com**
 
 ---
@@ -28,11 +28,13 @@
 ---
 
 ## 🔗 Connect With Me  
+## 🔗 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/ChanduMass18">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://chandukannadiga.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=netlify" />
+  <a href="https://chandukannadiga.netlify.app/" title="My Portfolio / Project Showcase">
+    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="48" />
   </a>
 </p>
+
