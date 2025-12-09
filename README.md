@@ -25,20 +25,9 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows" />
 </p>
 
----
-
 ### 🔗 Social Links  
-(Add your links here)
 - LinkedIn:https://linkedin.com/in/ChanduMass18  
 - Portfolio:https://chandukannadiga.netlify.app/
-
----
-
-### 🧩 Fun Fact  
-Literally grinding code like it's a gym workout.  
-Glow-up incoming.
-
----
 
 ### ⚡ Current Status  
 Learning DSA......
