@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Chandu+🔥/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Chandu+🔥;/>
 </h1>
 
 <p align="center">
@@ -35,9 +35,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows" />
 </p>
 
----
-
-<!-- ========================= SOCIALS ========================= -->
 
 ## 🔗 Connect With Me  
 <p align="left">
@@ -45,18 +42,4 @@
   <a href="https://chandukannadiga.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" /></a>
 </p>
 
----
 
-<!-- ========================= GITHUB STATS (GLASS) ========================= -->
-
-## 📊 GitHub Stats (Glassmorphism)
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChanduMass07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduMass07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloud.png" />
-</p>
