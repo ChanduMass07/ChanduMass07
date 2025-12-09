@@ -1,44 +1,52 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Chandu+🔥;C+%7C+C%2B%2B+%7C+SQL+%7C+React+Developer;DSA+Grinder+%26+Problem+Solver;Glow+Up+In+Progress..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Chandu+🔥;C+%7C+C%2B%2B+%7C+SQL+%7C+React+Developer;DSA+Grinder+%26+Problem+Solver;Glow+Up+In+Progress..." />
 </h1>
 
----
-
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=ChanduMass18&data=followers,repositories,stars,commits&theme=aqua" />
+  <img src="https://img.shields.io/badge/Status-Building%20My%20Future-00F7FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 About Me
+<!-- ========================= GLASS CARD ABOUT ========================= -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduMass18&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduMass07&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</div>
 
-- 💻 Passionate **C / C++ / SQL / React Developer**  
-- 🔥 Currently grinding **DSA + System Design (Basics)**  
-- 🚀 Building real-world projects & polishing problem-solving  
-- 🎯 Goal: **Clean GitHub + Strong Tech Foundations**  
-- 📩 Mail: **chanduking1718@gmail.com**  
+<br/>
+
+## 🧊 About Me  
+> A developer crafting clean code, solving problems, and leveling up every day.
+
+- 💻 Skilled in **C, C++, SQL, React**  
+- 🚀 Grinding **DSA + System Design basics**  
+- 🎯 Focus: *Strong fundamentals + polished GitHub profile*  
+- 📬 Reach me: **chanduking1718@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack  
+<!-- ========================= TECH STACK ========================= -->
 
-### 🔹 Languages & Frameworks
+## 🛠️ Tech Stack
+
+### 🔹 Languages & Frameworks  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,react,sqlite,mysql" />
 </p>
 
-### 🔹 Tools & Platforms
+### 🔹 Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows" />
 </p>
 
 ---
 
-## 🔗 Social Links  
+<!-- ========================= SOCIALS ========================= -->
+
+## 🔗 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/ChanduMass18"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://chandukannadiga.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" /></a>
@@ -46,22 +54,26 @@
 
 ---
 
-## ⚡ Current Status  
-**🚀 Learning DSA & improving problem-solving consistency.**
+<!-- ========================= GITHUB STATS (GLASS) ========================= -->
+
+## 📊 GitHub Stats (Glassmorphism)
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChanduMass07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduMass07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChanduMass18&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduMass18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- ========================= QUOTE ========================= -->
+
+## ✨ Quote  
+> _“Consistency beats talent — show up every day and greatness follows.”_
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
+<!-- ========================= DIVIDER ========================= -->
 
-## 🔥 Fun Fact  
-> _Consistency beats talent. One hour daily > 10 hours someday._
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloud.png" />
+</p>
