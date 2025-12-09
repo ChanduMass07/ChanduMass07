@@ -27,19 +27,9 @@
 
 ---
 
-### 📊 GitHub Analytics  
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChanduMass07&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduMass07&theme=tokyonight" height="160px"/>
-</p>
-
----
-
 ### 🔗 Social Links  
 (Add your links here)
 - LinkedIn:https://linkedin.com/in/ChanduMass18  
-- Instagram:  
 - Portfolio:https://chandukannadiga.netlify.app/
 
 ---
@@ -51,4 +41,4 @@ Glow-up incoming.
 ---
 
 ### ⚡ Current Status  
-Learning DSA
+Learning DSA......
