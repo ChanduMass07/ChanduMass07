@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Chandu+🔥;C+%7C+C%2B%2B+%7C+SQL+%7C+React+Developer;DSA+Grinder+%26+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Chandu+🔥" />
 </h1>
+
 
 ## 🧊 About Me  
 
